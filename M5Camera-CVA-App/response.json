@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "mid": "/m/01ssh5",
+          "description": "Shoulder",
+          "score": 0.7507903,
+          "topicality": 0.7507903
+        },
+        {
+          "mid": "/m/0fc1fy",
+          "description": "Black hair",
+          "score": 0.56975,
+          "topicality": 0.56975
+        },
+        {
+          "mid": "/m/013s93",
+          "description": "T-shirt",
+          "score": 0.5017429,
+          "topicality": 0.5017429
+        }
+      ]
+    }
+  ]
+}
